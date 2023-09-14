@@ -1,2 +1,9 @@
-# MyNotes
-A place to store note files
+## MyNotes
+A place to store note files\
+这是一个存放笔记的仓库\
+笔记内容如下：\
+**AI回答**：这是本人遇到问题的时候询问AI得到的答案，一般都是对我有所启发，便会摘录下来\
+**CSS3**：一些常用的但是容易忘记的知识\
+**ES6语法**：JavaScript的新语法内容，如Promise等等\
+**JavaScirpt前端课程**：基础知识\
+**小程序**：存放着做小程序的时候遇到的一些有疑惑的地方的解答\
